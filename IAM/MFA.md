@@ -1,7 +1,5 @@
 # Enable MFA
 
-Follow the doc to enable MFA for root account
-
 ## Object
 
 Understand how to enable virtual MFA for root account.
